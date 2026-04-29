@@ -13,7 +13,7 @@ AI-Based Resume Screening and Job Recommendation
 Research
 
 ## Supervised By
-Gurpreet Singh
+Dr.Gurpreet Singh
 
 ## Current Status
 Completed — Report and Presentation submitted for IOHE (22CS422)
